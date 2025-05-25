@@ -41,7 +41,7 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Zeplin](https://img.shields.io/badge/Zeplin-FFCA28?style=for-the-badge&logo=zeplin&logoColor=black)
+![Zeplin](https://img.shields.io/badge/-Zeplin-FFCA28?style=flat&logo=zeplin&logoColor=black)
 
 ---
 
